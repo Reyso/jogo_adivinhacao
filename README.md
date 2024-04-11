@@ -28,6 +28,3 @@ Este é um simples jogo de adivinhação de palavras implementado em Python.
 2. Certifique-se de que o arquivo `.palavras_secretas.txt` contém as palavras secretas desejadas.
 3. Execute o jogo executando o arquivo `app.py`.
 4. Siga as instruções na tela para jogar o jogo.
-
-## Exemplo de Arquivo `.palavras_secretas.txt`
-
