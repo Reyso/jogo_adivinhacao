@@ -6,7 +6,7 @@ Este é um simples jogo de adivinhação de palavras implementado em Python.
 
 1. **Inicialização do Jogo:**
    - O jogo é iniciado pelo arquivo `app.py`.
-   - Ao iniciar o jogo, o programa exibe um menu onde você pode escolher uma das palavras secretas listadas no arquivo `.palavras_secretas.txt`.
+   - Ao iniciar o jogo, o programa exibe um menu onde você pode escolher uma das palavras secretas
 
 2. **Jogando o Jogo:**
    - Após escolher uma palavra secreta, o jogo exibirá o número de letras na palavra escolhida.
@@ -20,11 +20,10 @@ Este é um simples jogo de adivinhação de palavras implementado em Python.
 ## Pré-requisitos
 
 - Python 3.x instalado no seu sistema.
-- Um arquivo oculto chamado `.palavras_secretas.txt` contendo as palavras secretas.
 
 ## Executando o Jogo
 
 1. Clone ou baixe este repositório para o seu computador.
-2. Certifique-se de que o arquivo `.palavras_secretas.txt` contém as palavras secretas desejadas.
+2. Certifique-se de que o a
 3. Execute o jogo executando o arquivo `app.py`.
 4. Siga as instruções na tela para jogar o jogo.
